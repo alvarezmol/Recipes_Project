@@ -1,12 +1,33 @@
 *
 {
     font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
+
+img
+{
+    border-radius: 10px;
+}
+
+.index
+{
     color: #5585b5;
     background-color:#bbe4e9 ;
 }
 
 .Country_Ham
 {
-    color: black;
-    background-color:black ;
+    color: white;
+    background-color:#5585b5 ;
+}
+
+.Dirt
+{
+    color: #a2a8d3;
+    background-color:#38598b ;
+}
+
+.head_c ,
+.head_d
+{
+    text-align: center;
 }
