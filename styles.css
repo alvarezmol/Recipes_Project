@@ -31,3 +31,22 @@ img
 {
     text-align: center;
 }
+
+.c1
+{
+    background-color: #5585b5;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.imgh1
+{
+    height: auto; 
+    max-width: 20%;
+    display: inline;
+}
+
+.h1 
+{
+    display: inline;
+}
